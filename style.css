@@ -362,6 +362,9 @@ small {
     .row {
         text-align: center;
     }
+    .col-2 h1 {
+        font-size: 47px;
+    }
     .col-2,
     .col-3,
     .col-4 {
